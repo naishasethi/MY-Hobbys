@@ -30,3 +30,5 @@ float: left;
     #Contacts {
         background:linear-gradient(#ff00e1 0%, #ffffff 100%);
     }
+.Contact_1 h3{
+   display: inline;
